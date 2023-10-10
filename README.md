@@ -1,3 +1,6 @@
+COPPER INDUSTRY PRICE PREDICTION
+
+
 The data collected in copper industry are have imbalanced data,outliers,noise which affects accuracy of the model
 
 The goal of the project is to get rid of these rubbish data,preprocess and predict the wanted value
